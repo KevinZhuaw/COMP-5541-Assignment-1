@@ -3,7 +3,7 @@
 21066293G ZHUANG Kaiwen
 
 
-implenting Naive Bayes Classifer on the IRIS Dataset
+implenting Naive Bayes Classifer on the IRIS Dataset without using existing package
 
 
 Can load dataset successfully
